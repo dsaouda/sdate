@@ -1,5 +1,4 @@
 [![Release](https://img.shields.io/github/v/release/dsaouda/sdate.svg?style=for-the-badge)](https://github.com/dsaouda/sdate/releases/latest)
-
 [![Go Report](https://img.shields.io/badge/go%20report-A+-brightgreen.svg?style=for-the-badge)](https://goreportcard.com/report/github.com/dsaouda/sdate)
 
 # sdate
