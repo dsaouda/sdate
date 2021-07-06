@@ -4,16 +4,16 @@
 # sdate
 Simple date for windows cmd
 
-# Install
+## Install
 See https://github.com/dsaouda/sdate/releases/latest
 
-# Usage
+## Usage
 `sdate -f "yyyy-MM-dd HH:mm:ss"`
 
-# Format help
+## Format help
 https://github.com/vjeantet/jodaTime#format
 
-# Motivation
+## Motivation
 Difficulty formatting dates in windows bash script.
 
 For more detail see:
